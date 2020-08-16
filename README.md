@@ -32,8 +32,8 @@ Meus hobbies incluem praticar Artes Marciais (Kung-FU), assistir filmes, séries
  
 ## Contato
 
-[![email](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/email.png)](mailto:rsilva@ramonsilva.net)
-[![linkedin](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/linkedin.png)](https://www.linkedin.com/in/ramon-ferreira-silva-9ab64212)
-[![facebook](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/facebook.png)](http://www.facebook.com/100000481358401)
-[![Twitter](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/twitter-2.png)](https://twitter.com/ramonsilva_net)
+[![email](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/email.png)](mailto:rsilva@ramonsilva.net)&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/linkedin.png)](https://www.linkedin.com/in/ramon-ferreira-silva-9ab64212)&nbsp;&nbsp;&nbsp;&nbsp;
+[![facebook](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/facebook.png)](http://www.facebook.com/100000481358401)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitter](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/twitter-2.png)](https://twitter.com/ramonsilva_net)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Blog](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/wordpress.png)](http://www.ramonsilva.net)
