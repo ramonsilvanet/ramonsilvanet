@@ -1,6 +1,4 @@
- # Ramon Ferreira Silva
- 
- ## Um pouco sobre mim...
+## Um pouco sobre mim...
  
 Atuo como engenheiro de software full Stack na Resultados Digitais. 
  
@@ -16,13 +14,14 @@ Trabalho como Engenheiro de Software desde de 2006, e passaei por empresas como 
 
 Gosto de trabalhar em projetos inovadores e de grande impacto, e busco oportunidades para atuar como desenvolvedor full-stack, desenvolvedor mobile ou cientista de dados. 
  
-Trabalho há mais de 10 anos com metodologias ágeis (Scrum e Kanban).
-Possuo experiência nas linguagens C#, Java, Kotlin, Python, PHP, Javascript, Ruby e Python, incluindo metodologias de Testes (TDD, BDD) e Integração Contínua. 
+* Trabalho há mais de 10 anos com metodologias ágeis (Scrum e Kanban) e DDD.
 
-Tenho conhecimentos boa vivêem Docker, aws e servidores linux.  
-Scrum e Kanban, e possuo experiência nas linguagens C#, Java, Kotlin, Python, PHP, Javascript e metodologias de Testes e integração Contínua. Tenho conhecimentos ncia com Docker, AWS, GCP e servidores linux em geral.  
+* Possuo experiência nas linguagens C#, Java, Kotlin, Python, PHP, Javascript, Ruby e Python, incluindo metodologias de Testes (TDD, BDD) e Integração Contínua. 
+ 
+* Tenho conhecimentos ncia com Docker, AWS, GCP e servidores linux em geral.  
 
-Tenho expertise em Machine Learning, Deep Learning e Inteligência Artificial.
+* Tenho expertise em Machine Learning, Deep Learning e Inteligência Artificial.
+ 
  
 ## Hobbies
 Meus hobbies incluem praticar Artes Marciais (Kung-FU), assistir filmes, séries e jogar (principalmente Nintendo Switch). Costumo viajar para assistir shows de rock. Gosto de estudar por conta própria, seja através de cursos online, presencias ou livros nas áreas de tecnologia, produtos, startups e finanças. 
