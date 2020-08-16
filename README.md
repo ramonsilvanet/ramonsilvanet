@@ -31,3 +31,6 @@ Gosto de trabalhar em projetos inovadores e de grande impacto, e busco oportunid
 Meus hobbies incluem praticar Artes Marciais (Kung-FU), assistir filmes, séries e jogar (principalmente Nintendo Switch). Costumo viajar para assistir shows de rock. Gosto de estudar por conta própria, seja através de cursos online, presencias ou livros nas áreas de tecnologia, produtos, startups e finanças. 
  
 ## Contato
+
+![Twitter](https://github.com/ramonsilvanet/ramonsilvanet/blob/master/twitter-2.png)
+
