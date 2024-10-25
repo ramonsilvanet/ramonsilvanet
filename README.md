@@ -2,9 +2,8 @@
 
 [![Estatísticas no Github](https://github-readme-stats.vercel.app/api?username=ramonsilvanet)](https://github.com/ramonsilvanet/github-readme-stats)
 
-Atuo como engenheiro de software full Stack na Resultados Digitais. 
- 
-Trabalho como Engenheiro de Software desde de 2006, e passaei por empresas como Jornal [O Globo!](http://oglobo.globo.com), Acotel do Brasil e [M4U](https://www.m4u.com.br). Trabalhei em projetos de grande impacto como o da [Cielo LIO](https://www.cielo.com.br/bem-vindo-a-lio/), a máquina de pagamentos Smart da Cielo e nos Sites do Jornal O Globo, Rio Show e aplicativos como [Globo+](https://assinaturaglobo.globo.com/globo-mais/vitrine/insira-seu-voucher), Rio Show e Globo Notícias. Atuei também na área de Telecomunicações enquanto trabalhava na Acotel do Brasil, uma empresa de Serviços de Valor Agregado (VAS) que prestava serviço para operadoras de telefonia móvel como a TIM Brasil. 
+
+Atuo  na área de análise e desenvolvimento de sistemas desde 2006. Possuo Mestrado em Ciência da Computação pelo CEFET/RJ, um MBA em Engenharia de Software pela UFRJ e bacharelado em Sistemas de Informação pela Universidade Estacio de Sá.  Já atuei  em empresas dos segmentos bancário, telecomunicações e mídia impressa e Marketing Digital. Atualmente trabalho como desenvolvedor na RD Station, empresa líder no segmento de Marketing Digital na América Latina e com expansão global (EUA, Europa e Ásia).
 
 ## Formação
 * Ensino médio Técnico em Informático pelo CEFET/RJ
